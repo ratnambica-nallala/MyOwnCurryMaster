@@ -1,5 +1,6 @@
 Shopping List:
-
+Chicken
+Cake
 Apples
 Oranges
 Bananas
